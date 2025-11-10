@@ -1,6 +1,6 @@
 # TBA
 
-# Guide utilisateur : 
+# GUIDE UTILISATEUR : 
   # Comment installer le jeu ?
 
   # Description du jeu
